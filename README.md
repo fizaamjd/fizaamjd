@@ -27,7 +27,7 @@ My work runs from **React and TypeScript to retrieval pipelines, distributed cac
 
 ## Games and foundations
 
-[**Planet-1**](https://github.com/fizaamjd/Planet-1), a three-planet Unity survival game with an [original Windows build](https://github.com/fizaamjd/Planet-1/releases). [**Dungeon Escape**](https://github.com/fizaamjd/Dungeon-Escape), a Unity movement and pursuit prototype. [**OOP Projects**](https://github.com/fizaamjd/OOP-Projects), C# store-management and console PacMan coursework. [**C++ Fundamentals**](https://github.com/fizaamjd/Cpp-Fundamentals), consolidated programming labs and exercises.
+[**Planet-1**](https://github.com/fizaamjd/Cosmic-Resurgence), a three-planet Unity survival game with an [original Windows build](https://github.com/fizaamjd/Cosmic-Resurgence/releases). [**Dungeon Escape**](https://github.com/fizaamjd/Dungeon-Escape), a Unity movement and pursuit prototype. [**OOP Projects**](https://github.com/fizaamjd/OOP-Projects), C# store-management and console PacMan coursework. [**C++ Fundamentals**](https://github.com/fizaamjd/Cpp-Fundamentals), consolidated programming labs and exercises.
 
 ## Engineering toolkit
 
