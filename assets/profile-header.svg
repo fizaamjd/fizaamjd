@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Fiza Amjad</title>
+<desc id="desc">Full-stack engineer, AI systems. Interfaces, services, and the systems underneath. Lahore, Pakistan.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#b6c9d1" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="340" rx="12" fill="#edf3f5"/>
+<rect x="770" width="430" height="340" fill="url(#grid)"/>
+<path d="M48 40H1152M48 300H1152" stroke="#9bb5c2"/>
+<text x="52" y="135" fill="#102e3c" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="700" letter-spacing="-3">Fiza Amjad.</text>
+<text x="55" y="183" fill="#8b1e36" font-family="Arial,Helvetica,sans-serif" font-size="26">Full-stack engineering · AI systems</text>
+<text x="55" y="234" fill="#426176" font-family="Arial,Helvetica,sans-serif" font-size="20">From the interface to the systems underneath.</text>
+<text x="55" y="279" fill="#426176" font-family="monospace" font-size="14" letter-spacing="1.5">LAHORE, PAKISTAN</text>
+<g font-family="monospace" font-size="17" fill="#102e3c">
+<path d="M821 107V245M821 107H856M821 176H856M821 245H856" stroke="#8b1e36" stroke-width="2" fill="none"/>
+<g fill="#edf3f5" stroke="#9bb5c2"><rect x="856" y="82" width="274" height="50" rx="4"/><rect x="856" y="151" width="274" height="50" rx="4"/><rect x="856" y="220" width="274" height="50" rx="4"/></g>
+<circle cx="821" cy="107" r="5" fill="#8b1e36"/><circle cx="821" cy="176" r="5" fill="#8b1e36"/><circle cx="821" cy="245" r="5" fill="#8b1e36"/>
+<text x="875" y="114">Interfaces</text><text x="875" y="183">APIs &amp; data</text><text x="875" y="252">AI &amp; systems</text></g>
+</svg>
