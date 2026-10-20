@@ -25,6 +25,10 @@ My work runs from **React and TypeScript to retrieval pipelines, distributed cac
 
 **Closer to the hardware:** [CustomOS](https://github.com/fizaamjd/OSFinalProject), a C/GTK desktop simulator for Ubuntu, and [Chroma-Link-IoT](https://github.com/fizaamjd/Chroma-Link-IoT), an RGB controller connecting MQTT commands to an Arduino through an ESP32 bridge.
 
+## Games and foundations
+
+[**Planet-1**](https://github.com/fizaamjd/Planet-1), a three-planet Unity survival game with an [original Windows build](https://github.com/fizaamjd/Planet-1/releases). [**Dungeon Escape**](https://github.com/fizaamjd/Dungeon-Escape), a Unity movement and pursuit prototype. [**OOP Projects**](https://github.com/fizaamjd/OOP-Projects), C# store-management and console PacMan coursework. [**C++ Fundamentals**](https://github.com/fizaamjd/Cpp-Fundamentals), consolidated programming labs and exercises.
+
 ## Engineering toolkit
 
 | Area | Tools I work with |
