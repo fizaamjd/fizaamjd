@@ -1,10 +1,6 @@
-![Fiza Amjad — Full-stack engineering and AI systems](./assets/profile-header.svg)
+![Fiza Amjad: Full-stack engineering and AI systems](./assets/profile-header.svg)
 
-<p>
-  <a href="https://www.linkedin.com/in/fiza-amjad/"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp;
-  <a href="mailto:fizaamjad444@gmail.com"><strong>Email ↗</strong></a> &nbsp; · &nbsp;
-  <a href="#selected-work"><strong>Explore my work ↓</strong></a>
-</p>
+[**LinkedIn ↗**](https://www.linkedin.com/in/fiza-amjad/) · [**Email ↗**](mailto:fizaamjad444@gmail.com) · [**Explore my work ↓**](#selected-work)
 
 I’m **Fiza**, a full-stack engineer in Lahore, Pakistan. I build product interfaces, the services behind them, and AI systems that can explain where an answer came from.
 
